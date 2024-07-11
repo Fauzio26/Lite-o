@@ -1,0 +1,8 @@
+FK: Pendidikan Dokter, Kedokteran Gigi
+FIK: Informatika, Sistem Informasi, Sains data
+FEB: Ekonomi, Manajemen Bisnis, Akuntansi, Keuangan, Ekonomi Islam
+FT: Teknik Sipil, Teknik Mesin, Teknik Elektro, Teknik
+FH: Sarjana Hukum, Magister Ilmu Hukum, Doktor Ilmu Hukum
+FIKES: Keperawatan, Farmasi, Gizi, Psikologi Kimia, Teknik Industri
+FISIP: Ilmu Politik, Hubungan Internasional, Sosiologi
+FIB: Sastra Indonesia, Sastra Inggris, Sastra Jepang, Sastra Sejarah
